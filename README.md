@@ -14,6 +14,14 @@
 * Inverters, Multiplexer and demultiplexer, Encoder and decoder, Transcoder, Adder, Comparator...
 * Basic RS, JK and D flip-flops, counters and downcounters...
 
+### START
+
+'''bash
+# install logisim
+
+# run a .circ project in logisim
+'''
+
 ## Data representation and coding
 
 * Number systems: decimal, binary, octal, hexadecimal, conversion from one base to another base, operations
