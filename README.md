@@ -1,5 +1,7 @@
 # Logic_circuits
 
+> 7 electronic circuits including some of the most well-known creations (multiplexer, encoder, etc.)
+
 ## Boolean algebra, logical and combinatorial functions
 
 * Boolean algebra, basic operations
