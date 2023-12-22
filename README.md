@@ -2,6 +2,10 @@
 
 > 7 electronic circuits including some of the most well-known creations (multiplexer, encoder, etc.)
 
+![image](image/circ1.png)
+![image](image/circ2.png)
+![image](image/circ3.png)
+
 ## Boolean algebra, logical and combinatorial functions
 
 * Boolean algebra, basic operations
